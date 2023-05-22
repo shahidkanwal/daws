@@ -10,7 +10,7 @@ public class UserController {
 	
 	@GetMapping("/")
 	public String home() {
-		return "Welcome to aws";
+		return "Welcome to aws and new commit";
 		
 	}
 
