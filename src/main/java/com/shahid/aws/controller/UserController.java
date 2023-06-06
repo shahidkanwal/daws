@@ -13,5 +13,10 @@ public class UserController {
 		return "Welcome to aws and new commit";
 		
 	}
+	@GetMapping("/index")
+	public String index() {
+		return "this is index and i will implement databse today";
+		
+	}
 
 }
