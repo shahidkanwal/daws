@@ -15,7 +15,7 @@ public class UserController {
 	}
 	@GetMapping("/index")
 	public String index() {
-		return "this is index and i will implement databse today";
+		return "this is index and i will implement databse today hiiiiiiiiiii";
 		
 	}
 
